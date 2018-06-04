@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello World! I am Jasmeet and excited to work with Katie Park!");
-		System.out.println("git is working!!");
+		System.out.println("git is working fine! Let's try another thing!!!");
 	}
 
 }
