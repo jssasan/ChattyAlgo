@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World! I am Jasmeet and excited to work with Katie Park!");
 		System.out.println("git is working!!");
 		System.out.println("testing push");
-		System.out.println("This is another branch jss");
+		System.out.println("Deleted the conflicting changes of this file from head and jss branch. Now this should work fine");
 	}
 
 }
